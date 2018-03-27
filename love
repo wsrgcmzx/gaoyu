@@ -1,5 +1,6 @@
 class Love{
   public static void main(String args[]){
     System.out.println("this is my lover!");
+    System.out.println("We will love forever!");
   }
 }
